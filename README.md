@@ -13,19 +13,25 @@ The physical layout and component placement were optimized for both mechanical f
 
 
 **Schematics:**
+
 Top Sheet Architecture: 
+
 <img width="3509" height="2481" alt="top sheet" src="https://github.com/user-attachments/assets/4ee41d21-6df8-4130-8843-32e5985af018" />
 
 MCU, SD Card and Flash:
+
 <img width="3509" height="2481" alt="MCU,SD,FLASH" src="https://github.com/user-attachments/assets/4e92a940-38a7-4064-920c-26669c32b8d0" />
 
 RF and Sensors:
+
 <img width="3509" height="2481" alt="RF_Sensors" src="https://github.com/user-attachments/assets/e826f47e-90e0-45c3-983b-89a9d604a478" />
 
 Power Management:
+
 <img width="3509" height="2481" alt="Power" src="https://github.com/user-attachments/assets/cd83192e-93eb-40bc-a6e4-1960c31bd079" />
 
 Connectors:
+
 <img width="3509" height="2481" alt="Connectors" src="https://github.com/user-attachments/assets/5e0d58cc-3a84-41c9-81c0-81998962a790" />
 
 
