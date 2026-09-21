@@ -7,6 +7,7 @@ This project introduces a highly integrated, four-layer printed circuit board me
 The physical layout and component placement were optimized for both mechanical fit and electrical isolation, ensuring that high-frequency modules do not interfere with sensitive analog domains. The hierarchical schematic design visually breaks down the complex system into manageable logical blocks, separating the main MCU, power distribution, and RF sections.
 
 **3D Board Renders:**
+
 <img width="820" height="775" alt="3d" src="https://github.com/user-attachments/assets/b236de06-acb7-401f-8eef-e02edf565179" />
 <img width="820" height="775" alt="3d back" src="https://github.com/user-attachments/assets/8ec52863-0846-489c-b07b-89ec4e6c08eb" />
 
